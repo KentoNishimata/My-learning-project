@@ -1,4 +1,3 @@
-# My-learning-project-ダウンロードファイル整理アプリ
 from pathlib import Path
 
 folder = Path.home()/"Downloads"
